@@ -1,0 +1,394 @@
+
+
+#logo1{
+   color: #9D44B5;
+  font-family: The Holiday-Personal Use;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+
+
+#logo2{
+   color:  #BAFF29;
+  font-family: The Holiday-Personal Use;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+
+#menu{
+  color: #000000;
+  font-family: times new roman;
+  font-size: 20px;
+  float: right;
+  margin-left:27px; 
+}
+
+
+#menu:hover{
+   color:#e8b32e;
+}
+
+#menuprincipal{
+   padding:10px;
+}
+
+#menuprincipal img{
+	        width: 50%;
+          float: left;
+         margin-right: 10px;
+         margin-bottom: 10px;
+}
+
+
+#menuprincipal p{
+          text-align: justify;
+         font-family: times new roman;
+         width: 30%;
+}
+
+
+#cafe {
+  background-color: #BAFF29; 
+}
+
+#bienvenido, #cafe1, #cafe2 {
+        padding: 20px;
+}
+
+#bienvenido h2{
+     color: black;
+     font-style: oblique;
+}
+
+#bienvenido p{
+     color: black;
+     
+}
+
+#bienvenido hr{
+           border-width: 1px;
+           border-color: #837462;
+           border-style: solid;   
+}
+
+
+#bienvenido #boton{
+            background-color: #785d43;
+            color: #e1b487;
+            border-width: 0px;
+            border-radius: 5px;
+}
+
+
+#cafe1 {
+       background-color: #93E1D8;
+       text-align: center;
+}
+
+#cafe1 h3{
+         color: black;
+         padding-top: 20px;
+         padding-bottom: 20px;
+       
+         
+}
+
+#cafe1 p{
+          text-align: center;
+          color: black;
+}
+
+#cafe1 #boton{
+            background-color: #BAFF29;
+            color: white;
+            border-width: 0px;
+            border-radius: 5px;
+}
+
+
+#cafe2 {
+       background-color: #EFD9CE;
+       text-align: center;
+}
+
+#cafe2 h3{
+         color: black;
+         padding-top: 20px;
+         padding-bottom: 20px;
+       
+         
+}
+
+#cafe2 p{
+          text-align: center;
+          color: black;
+}
+
+#cafe2 #boton{
+            background-color: #BAFF29;
+            color: white;
+            border-width: 0px;
+            border-radius: 5px;
+}
+
+
+#caballos{
+        padding: 20px;
+        font-family: times new roman;
+}
+
+#caballos div #boton {
+   background-color: #BAFF29;
+   color: black;
+   border-width: 0px;
+   border-radius: 5px;
+
+}
+
+footer {
+       background-color: black; 
+       text-align: center;
+       color: white;
+       padding: 20px;
+}
+
+
+
+#Nosotros{
+     margin: 20px;
+}
+
+#Nosotros h2{
+        font-family: times new roman;
+        text-align: center;
+        
+        margin-bottom: 40px;
+}
+
+#Nosotros img{
+         float: left;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         border-radius: 10px;
+         border-width: 8px;
+         box-shadow: 5px 5px 5px gray;
+     
+}
+
+#Nosotros p{
+         text-align: justify;
+         font-family: times new roman;
+
+}
+
+#division{
+       border-width: 3px;
+       border-color:gray;
+       border-style: solid;
+      
+
+}
+
+
+#mision{
+     margin: 20px;
+}
+
+#mision h2{
+        font-family: times new roman;
+        text-align: center;
+        
+        margin-bottom: 40px;
+}
+
+#mision img{
+         float: right;
+         margin-left: 20px;
+         margin-bottom: 20px;
+         border-radius: 10px; 
+         border-width: 8px;
+         border-color: #a57746;
+         border-style: solid;
+         box-shadow: 5px 5px 5px gray;
+}
+
+#mision p{
+         text-align:justify;
+         font-family: times new roman;
+
+}
+
+#division{
+       border-width: 3px;
+       border-color:gray;
+       border-style: solid;
+      
+
+}
+
+
+#h2{ 
+   text-align: center;
+   font-family: time new roman;
+   margin-bottom: 40px; 
+}
+
+
+#buzon{ 
+  background-color:#efd9ce;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+
+iframe{
+
+ border-radius: 10px;
+ box-shadow: 5px 5px 5px gray;
+}
+
+input, textarea {
+  margin-bottom: 10px;
+
+}
+
+#boton{
+  background-color:#93e1d8;
+  color: black;
+ 
+}
+
+#Paquetes{
+
+margin: 20px;
+margin-bottom: 20px;
+margin-right: 10px;
+}
+
+
+#Paquetes img{
+     float:right;
+     margin-right: 10px;
+     margin-bottom: 10px;
+}
+
+#Paquetes2 img{
+     float: left;
+     margin-right: 10px;
+     margin-bottom: 10px;
+}
+
+
+
+#Paquetes h2{
+font-family: Times new roman;
+text-align: center;
+
+}
+
+#mvideo{
+     margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+#vive{
+   text-align: center;
+  margin-right: 30px;
+}
+
+
+
+#vuelos{ 
+  background-color:#e0b56b;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+#vuelos2{ 
+  background-color:#9E6240;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+#vuelos3{ 
+  background-color:#93E1D8;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+#hospedaje{ 
+  background-color:#a8dc9b;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+#hospedaje2{ 
+  background-color:#e2d8e4;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+#hospedaje3{ 
+  background-color:#aa8caf;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+#vuelos img{
+         float: left;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         border-radius: 10px;
+         border-width: 10px;
+         box-shadow: 5px 5px 5px gray;
+     
+}
+
+#hospedaje img{
+         float: left;
+         margin-right: 10px;
+         margin-bottom: 10px;
+         border-radius: 10px;
+         border-width: 10px;
+         box-shadow: 5px 5px 5px gray;
+     
+}
+
+#nosotros{ 
+  background-color:#e0b56b;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+#mision{ 
+  background-color:#eac78f;
+    text-align: center;
+       color: black;
+       padding: 20px;
+}
+
+
+#menu1{
+ background-color: #BAFF29;
+   color: black;
+   border-width: 0px;
+   border-radius: 5px;
+}
+
+
+
+
+
+
