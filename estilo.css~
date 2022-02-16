@@ -1,0 +1,149 @@
+#logo1{
+   color: #9D44B5;
+  font-family: The Holiday - Personal Use;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+
+
+#logo2{
+   color: #BAFF29;
+  font-family: The Holiday - Personal Use;
+  font-size: 40px;
+  font-weight: bold;
+  
+}
+
+#menu{
+  color: #000000;
+  font-family: times new roman;
+  font-size: 20px;
+  float: right;
+  margin-left:18px; 
+}
+
+
+#menu:hover{
+   color:#e8b32e;
+}
+
+#menuprincipal{
+   float:right;30px;
+}
+
+#cafe {
+  background-color: #2c2218; 
+}
+
+#bienvenido, #cafe1, #cafe2 {
+        padding: 20px;
+}
+
+#bienvenido h2{
+     color: pink;
+     font-style: oblique;
+}
+
+#bienvenido p{
+     color: #837462;
+     
+}
+
+#bienvenido hr{
+           border-width: 1px;
+           border-color: #93E1D8;
+           border-style: solid;   
+}
+
+
+#bienvenido #boton{
+            background-color: #785d43;
+            color: #e1b487;
+            border-width: 0px;
+            border-radius: 5px;
+}
+
+
+#cafe1 {
+       background-color: #93E1D8;
+       text-align: center;
+}
+
+#cafe1 h3{
+         color: #9f632c;
+         padding-top: 20px;
+         padding-bottom: 20px;
+       
+         
+}
+
+#cafe1 p{
+          text-align: center;
+          color: #9f632c;
+}
+
+#cafe1 #boton{
+            background-color: #a16d31;
+            color: #3b2b1c;
+            border-width: 0px;
+            border-radius: 5px;
+}
+
+
+#cafe2 {
+       background-color: #EFD9CE;
+       text-align: center;
+}
+
+#cafe2 h3{
+         color: #9f632c;
+         padding-top: 20px;
+         padding-bottom: 20px;
+       
+         
+}
+
+#cafe2 p{
+          text-align: center;
+          color: #9f632c;
+}
+
+#cafe2 #boton{
+            background-color: #a16d31;
+            color: #3b2b1c;
+            border-width: 0px;
+            border-radius: 5px;
+}
+
+
+#caballos{
+        padding: 20px;
+        font-family: times new roman;
+}
+
+#caballos div #boton {
+   background-color: #765f47;
+   color: white;
+   border-width: 0px;
+   border-radius: 5px;
+
+}
+
+footer {
+       background-color:#2c2218; 
+       text-align: center;
+       color: white;
+       padding: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
